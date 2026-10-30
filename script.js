@@ -1,4 +1,6 @@
-let nome="joao";
-console.log (nome);
-let numero=10
-console.log(numero);
+let nome= "bruno"
+cosole.log(nome);
+let numero=25
+consoel.log(numero);
+ if (true){
+    console.log(verdaderio),
